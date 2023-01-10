@@ -12,6 +12,10 @@ public class Example {
 		l.add("Samir");
 		l.add("tushar");
 		l.add("sachin");
+		l.add("sachin");
+		l.add("sachin");
+		l.add("sachin");
+		
 		
 		System.out.println(l);
 	}
